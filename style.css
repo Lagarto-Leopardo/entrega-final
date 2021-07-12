@@ -24,6 +24,10 @@ p.lead{
 	font-weight: 400;
 }
 
+img{
+	max-width:50%;
+}
+
 @media (min-width: 768px) {
 	p.lead{
 		text-align: justify;
