@@ -20,9 +20,9 @@ h2{
 	color: #3C5944;
 }
 h6{
+	font-family: 'Merriweather', serif;
 	color: #3C5944;
 	font-size: calc(1rem + .5vw);
-	line-height: 1;
 }
 
 p.lead{
